@@ -5,13 +5,13 @@
         id        = "net.smartacademymobile"
         versionCode = "388"
         version   = "1.14">
-    <name>Smartiss Academy</name>
+    <name>Niger Academy</name>
 
     <description>
         Smartiss M-Learning
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
+    <author href="http://smartiss.com" email="adamou.moussa@gmail.com">
         Adamou MOUSSA
     </author>
 
@@ -56,7 +56,7 @@
     <icon src="img/icon/ios/icon-57@2x.png"         gap:platform="ios"        width="114" height="114" />
     <icon src="img/icon/ios/icon-72@2x.png"         gap:platform="ios"        width="144" height="144" />
 
-    <gap:splash src="img/splash/android/android_ldpi_portrait.png.png" gap:platform="android" gap:density="ldpi"/>
+    <gap:splash src="img/splash/android/android_ldpi_portrait.png" gap:platform="android" gap:density="ldpi"/>
     <gap:splash src="img/splash/android/android_mdpi_portrait.png" gap:platform="android" gap:density="mdpi"/>
     <gap:splash src="img/splash/android/android_hdpi_portrait.png" gap:platform="android" gap:density="hdpi"/>
     <gap:splash src="img/splash/android/android_xhdpi_portrait.png" gap:platform="android" gap:density="xhdpi"/>
@@ -88,7 +88,7 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <gap:plugin name="net.tunts.webintent" />
     <gap:plugin name="nl.x-services.plugins.launchmyapp">
-        <param name="URL_SCHEME" value="moodlemobile" />
+        <param name="URL_SCHEME" value="smartacadey" />
     </gap:plugin>
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5" />
